@@ -1,0 +1,4 @@
+#クラスチェンジ元キャラID,クラスチェンジ到達レベル,クラスチェンジ先キャラID１,クラスチェンジ先キャラID２
+#チェンジ先無しの場合はnoneを定義
+test1,10,test1-Strong,test1-Speed
+test2,120,none,none
