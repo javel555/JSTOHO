@@ -7,6 +7,17 @@ JSGAMECLGCommonTextWindow,コメント,VillageMenuTile,10,TRUE,./data/img/village/wi
 JSGAMECLGCommonTextWindow,コメント,MainMenuText,10,TRUE,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,戦闘画面！！！,testFont
 ,,,,,,,,,,,,,,,
 #背景画像,,,,,,,,,,,,,,,
+JSGAMECLGCommonImage,背景,BackGround,10,true,./data/img/village/BGI.png,640,480,0,0
 #,,,,,,,,,,,,,,,
-JSGAMECLGCommonText,こめんと,testtest,,5,TRUE,100,100,aaaaa,textFont,,,,,,
+#ステータステスト
+JSGAMECLGCommonTextWindow,コメント,fontTest,10,TRUE,./data/img/village/window9x9.png,9,9,20,50,290,350,20,25, 　　　　　Lv99 \n　　　ミスティア６７\n\n　　　普通の魔法使い８９０\n\n\n　HP　　　 9999/9999　　　ATK 　999\n　MP　　　 9999/9999　　　DEF 　999\n　MAX-CAP　　　　999　　　SPD 　999\n\n\n　ふつうのほうき\n　みにはっけろ\n　きのこ\n　きのこ,testFont
+JSGAMECLGCommonAnimation,アニメテスト,AnimationTest1,2000,true,./data/img/test/レミリア.png,32,32,3,4,3,true,28,66
+JSGAMECLGCommonAnimation,アニメテスト,AnimationTest2,2000,true,./data/img/test/レミリア.png,32,32,3,4,3,true,28,110
+
+JSGAMECLGCommonImage,背景,hr1,11,true,./data/img/test/hr.png,190,20,80,130
+JSGAMECLGCommonImage,背景,hr2,11,true,./data/img/test/hr.png,190,20,80,215
+#JSGAMECLGCommonImage,背景,hr3,11,true,./data/img/test/hr.png,190,20,14,275
+
+#背景なしテキスト実験
+#JSGAMECLGCommonText,こめんと,testtest,,50,TRUE,100,100,ああああ,testFont,,,,,,
 #てぇすとーー！！,,,,,,,,,,,,,,,
