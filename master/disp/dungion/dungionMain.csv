@@ -22,6 +22,8 @@ JSGAMECLGCommonAnimation,ƒAƒjƒƒeƒXƒg,AnimationTest3,2000,true,./data/img/test/ƒ
 #ƒŠƒ[ƒhƒeƒXƒg
 
 #ƒeƒLƒXƒgƒEƒBƒ“ƒhƒE
-JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,MainMenuText1,50,true,./data/img/village/window9x9.png,9,9,400,200,10,27,100,1,ƒŒƒ~ƒŠƒAƒ_ƒ“ƒX,testFont
+JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,MainMenuText1,50,true,./data/img/village/window9x9.png,9,9,400,200,10,27,100,1,‚`‚a‚b‚cABCDƒŒƒ~ƒŠƒAƒ_ƒ“ƒX,small
+JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,MainMenuText2,50,true,./data/img/village/window9x9.png,9,9,400,225,10,27,100,1,‚`‚a‚b‚cABCDƒŒƒ~ƒŠƒAƒ_ƒ“ƒX,middle
+
 #
 JSGAMECLGCommonText,‚±‚ß‚ñ‚Æ,testtest,,5,true,100,100,aaaaa,textFont
