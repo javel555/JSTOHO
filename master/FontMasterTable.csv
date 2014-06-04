@@ -14,9 +14,9 @@
 #
 #フォントID,使用するフォント名,フォントサイズ,フォント太さ,フォントタイプ
 #testFont,MS ゴシック,16,2,DX_FONTTYPE_ANTIALIASING
-testFont,MegMix M2,14,2,DX_FONTTYPE_ANTIALIASING
+testFont,MigMix 2M,14,2,DX_FONTTYPE_ANTIALIASING
 testFont2,MS ゴシック,12,2,DX_FONTTYPE_ANTIALIASING
-small,MegMix M2,8,0,DX_FONTTYPE_ANTIALIASING
-middle,MegMix M2,14,0,DX_FONTTYPE_ANTIALIASING
+small,MigMix 2M,8,0,DX_FONTTYPE_ANTIALIASING
+middle,MigMix 2M,14,0,DX_FONTTYPE_ANTIALIASING
 commonTextWindowFont,MS ゴシック,18,1,DX_FONTTYPE_NOMAL,#CommonTextWindow用のデフォルトフォント、消しちゃダメ
 commonTextSelecterFont,MS ゴシック,18,1,DX_FONTTYPE_NOMAL,#CommonTextSelecter用のデフォルトフォント、消しちゃヤダ

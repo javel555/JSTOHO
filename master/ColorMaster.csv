@@ -1,0 +1,4 @@
+#色定義マスタ
+#id, R, G, B
+textFront,0,0,0
+textShadow,255,180,180

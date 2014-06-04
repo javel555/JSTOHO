@@ -19,5 +19,5 @@ JSGAMECLGCommonImage,îwåi,hr2,11,true,./data/img/test/hr.png,190,20,80,215
 #JSGAMECLGCommonImage,îwåi,hr3,11,true,./data/img/test/hr.png,190,20,14,275
 
 #îwåiÇ»ÇµÉeÉLÉXÉgé¿å±
-#JSGAMECLGCommonText,Ç±ÇﬂÇÒÇ∆,testtest,,50,TRUE,100,100,Ç†Ç†Ç†Ç†,testFont,,,,,,
+JSGAMECLGCommonText,Ç±ÇﬂÇÒÇ∆,testtest,50,TRUE,100,100,Ç†Ç†Ç†Ç†,middle,textFront,textShadow,,,,
 #ÇƒÇ•Ç∑Ç∆Å[Å[ÅIÅI,,,,,,,,,,,,,,,

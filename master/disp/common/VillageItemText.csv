@@ -1,0 +1,8 @@
+#アイテム説明欄,,,,,,,,,,,
+#背景,,,,,,,,,,,
+JSGAMECLGCommonWindow,アイテム説明欄背景,Village-Item-Info-Window,2000,TRUE,./data/img/common/window9x9.png,9,9,400,200,220,60
+#アイテム説明,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Info,2001,TRUE,405,205,サンプルテキスト,middle,textFront,textShadow,
+#アイテム重さ,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Waight-Label,2001,TRUE,550,250,重さ：,middle,textFront,textShadow,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Waight,2001,TRUE,595,250,サン,middle,textFront,textShadow,
