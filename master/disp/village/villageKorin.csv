@@ -6,8 +6,8 @@
 JSGAMECLGCommonTextWindow,香霖堂セリフ,KorinMenuText,5,TRUE,./data/img/village/window9x9.png,9,9,-3,5,640,43,25,2,いらっしゃい！\n今日も安いよ！,testFont,,,,,,,
 #JSGAMECLGCommonTextWindow,アイテム説明,korin-item-notice,5,TRUE,./data/img/village/window9x9.png,9,9,0,433,640,18,30,1,アイテム説明ウィンドウ,testFont,,,,,,,
 #JSGAMECLGCommonTextWindow,アイテムパラメタ,korin-item-information,5,TRUE,./data/img/village/window9x9.png,9,9,348,200,273,61,10,5,パラメタ,testFont,,,,,,,
-JSGAMECLGCommonTextWindow,所持金,korin-party-money,5,TRUE,./data/img/village/window9x9.png,9,9,348,150,74,18,5,1,仮値,testFont,,,,,,,
-JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/village/window9x9.png,9,9,480,150,120,18,5,1,仮値,testFont,,,,,,,
+JSGAMECLGCommonTextWindow,所持金,korin-party-money,5,TRUE,./data/img/village/window9x9.png,9,9,348,140,74,18,5,1,仮値,testFont,,,,,,,
+JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/village/window9x9.png,9,9,480,140,120,18,5,1,仮値,testFont,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 #アイテム一覧とかのリスト,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデント左,インデント下

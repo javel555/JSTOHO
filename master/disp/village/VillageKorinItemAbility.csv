@@ -1,0 +1,6 @@
+#特性説明欄,,,,,,,,,,,
+#背景,,,,,,,,,,,
+JSGAMECLGCommonWindow,特性説明欄背景,Village-Item-Ability-Window,2000,TRUE,./data/img/common/window9x9.png,9,9,400,240,220,32
+#特性説明,,,,,,,,,,,
+JSGAMECLGCommonText,特性名前,Village-Item-Ability-Name,2001,TRUE,405,245,サンプルテキスト,middle,textFront,textShadow,
+JSGAMECLGCommonText,特性説明,Village-Item-Ability,2001,TRUE,421,261,サンプルテキスト,middle,textFront,textShadow,
