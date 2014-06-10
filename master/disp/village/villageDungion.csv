@@ -2,9 +2,9 @@
 #
 
 #全景タイトル
-JSGAMECLGCommonTextWindow,コメント,VillageMenuTile,5,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,だんじょーん,testFont
+JSGAMECLGCommonTextWindow,コメント,VillageMenuTile,5,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,だんじょーん,testFont,textFront,textShadow
 #テキストウィンドウ
-JSGAMECLGCommonTextWindow,コメント,MainMenuText,5,true,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,だんじょん,testFont
+JSGAMECLGCommonTextWindow,コメント,MainMenuText,5,true,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,だんじょん,testFont,textFront,textShadow
 
 #背景画像
 #

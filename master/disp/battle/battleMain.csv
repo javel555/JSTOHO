@@ -2,15 +2,15 @@
 #,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 #‘SŒiƒ^ƒCƒgƒ‹,,,,,,,,,,,,,,,
-JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,VillageMenuTile,10,TRUE,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,í“¬I,testFont
+JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,VillageMenuTile,10,TRUE,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,í“¬I,testFont,textFront,textShadow
 #ƒeƒLƒXƒgƒEƒBƒ“ƒhƒE,,,,,,,,,,,,,,,
-JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,MainMenuText,10,TRUE,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,í“¬‰æ–ÊIII,testFont
+JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,MainMenuText,10,TRUE,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,í“¬‰æ–ÊIII,testFont,textFront,textShadow
 ,,,,,,,,,,,,,,,
 #”wŒi‰æ‘œ,,,,,,,,,,,,,,,
 JSGAMECLGCommonImage,”wŒi,BackGround,10,true,./data/img/village/BGI.png,640,480,0,0
 #,,,,,,,,,,,,,,,
 #ƒXƒe[ƒ^ƒXƒeƒXƒg
-JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,fontTest,10,TRUE,./data/img/village/window9x9.png,9,9,20,50,290,350,20,25, @@@@@Lv99 \n@@@ƒ~ƒXƒeƒBƒA‚U‚V\n\n@@@•’Ê‚Ì–‚–@g‚¢‚W‚X‚O\n\n\n@HP@@@ 9999/9999@@@ATK @999\n@MP@@@ 9999/9999@@@DEF @999\n@MAX-CAP@@@@999@@@SPD @999\n\n\n@‚Ó‚Â‚¤‚Ì‚Ù‚¤‚«\n@‚İ‚É‚Í‚Á‚¯‚ë\n@‚«‚Ì‚±\n@‚«‚Ì‚±\n‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O,testFont
+JSGAMECLGCommonTextWindow,ƒRƒƒ“ƒg,fontTest,10,TRUE,./data/img/village/window9x9.png,9,9,20,50,290,350,20,25, @@@@@Lv99 \n@@@ƒ~ƒXƒeƒBƒA‚U‚V\n\n@@@•’Ê‚Ì–‚–@g‚¢‚W‚X‚O\n\n\n@HP@@@ 9999/9999@@@ATK @999\n@MP@@@ 9999/9999@@@DEF @999\n@MAX-CAP@@@@999@@@SPD @999\n\n\n@‚Ó‚Â‚¤‚Ì‚Ù‚¤‚«\n@‚İ‚É‚Í‚Á‚¯‚ë\n@‚«‚Ì‚±\n@‚«‚Ì‚±\n‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O,testFont,textFront,textShadow
 JSGAMECLGCommonAnimation,ƒAƒjƒƒeƒXƒg,AnimationTest1,2000,true,./data/img/test/ƒŒƒ~ƒŠƒA.png,32,32,3,4,3,true,28,66
 JSGAMECLGCommonAnimation,ƒAƒjƒƒeƒXƒg,AnimationTest2,2000,true,./data/img/test/ƒŒƒ~ƒŠƒA.png,32,32,3,4,3,true,28,110
 
