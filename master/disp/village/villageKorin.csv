@@ -2,28 +2,28 @@
 
 #タイトル,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextWindow,テキストウィンドウ,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示サイズX,表示サイズY,テキスト桁数,テキスト行数,表示文言セット,,,,,,,,
-#JSGAMECLGCommonTextWindow,タイトル,KorinMenuTitle,5,TRUE,./data/img/village/window9x9.png,15,15,5,5,166,32,5,1,コーリンドー,testFont,,,,,,,
-JSGAMECLGCommonTextWindow,香霖堂セリフ,KorinMenuText,5,TRUE,./data/img/village/window9x9.png,15,15,-3,5,640,43,25,2,いらっしゃい！\n今日も安いよ！,testFont,,,,,,,
-#JSGAMECLGCommonTextWindow,アイテム説明,korin-item-notice,5,TRUE,./data/img/village/window9x9.png,15,15,0,433,640,18,30,1,アイテム説明ウィンドウ,testFont,,,,,,,
-#JSGAMECLGCommonTextWindow,アイテムパラメタ,korin-item-information,5,TRUE,./data/img/village/window9x9.png,15,15,348,200,273,61,10,5,パラメタ,testFont,,,,,,,
-JSGAMECLGCommonTextWindow,所持金,korin-party-money,5,TRUE,./data/img/village/window9x9.png,15,15,348,140,74,18,5,1,仮値,testFont,,,,,,,
-JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/village/window9x9.png,15,15,480,140,120,18,5,1,仮値,testFont,,,,,,,
+#JSGAMECLGCommonTextWindow,タイトル,KorinMenuTitle,5,TRUE,./data/img/village/window9x9.png,15,15,5,5,166,32,5,1,コーリンドー,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonTextWindow,香霖堂セリフ,KorinMenuText,5,TRUE,./data/img/village/window9x9.png,15,15,-3,5,640,43,25,2,いらっしゃい！\n今日も安いよ！,testFont,textFront,textShadow,,,,,,,
+#JSGAMECLGCommonTextWindow,アイテム説明,korin-item-notice,5,TRUE,./data/img/village/window9x9.png,15,15,0,433,640,18,30,1,アイテム説明ウィンドウ,testFont,textFront,textShadow,,,,,,,
+#JSGAMECLGCommonTextWindow,アイテムパラメタ,korin-item-information,5,TRUE,./data/img/village/window9x9.png,15,15,348,200,273,61,10,5,パラメタ,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonTextWindow,所持金,korin-party-money,5,TRUE,./data/img/village/window9x9.png,15,15,348,140,74,18,5,1,仮値,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/village/window9x9.png,15,15,480,140,120,18,5,1,仮値,testFont,textFront,textShadow,,,,,,,
 
 #アイテム一覧とかのリスト,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデント左,インデント下
-JSGAMECLGCommonTextSelecter,アイテム一覧,korin-item-menu,4,FALSE,./data/img/village/window9x9.png,15,15,20,149,15,13,300,200,./data/img/village/next.png,13,13,./data/img/village/menu_pointer.png,288,16,testFont,0,10
+JSGAMECLGCommonTextSelecter,アイテム一覧,korin-item-menu,4,FALSE,./data/img/village/window9x9.png,15,15,20,149,15,13,300,200,./data/img/village/next.png,13,13,./data/img/village/menu_pointer.png,288,16,testFont,0,10,textFront,textShadow
 
 #選択メニュー系,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,,,,,,,,,,
-JSGAMECLGCommonMenuElement,買う,buy,6,TRUE,./data/img/village/menu_elem_2.png,83,32,8,80,購入,25,9,testFont,,,,,,,,,
-JSGAMECLGCommonMenuElement,売る,sell,6,TRUE,./data/img/village/menu_elem_2.png,83,32,106,80,売却,25,9,testFont,,,,,,,,,
+JSGAMECLGCommonMenuElement,買う,buy,6,TRUE,./data/img/village/menu_elem_2.png,83,32,8,80,購入,25,9,testFont,textFront,textShadow,,,,,,,,,
+JSGAMECLGCommonMenuElement,売る,sell,6,TRUE,./data/img/village/menu_elem_2.png,83,32,106,80,売却,25,9,testFont,textFront,textShadow,,,,,,,,,
 
-JSGAMECLGCommonMenuElement,アイテム,buy-item,6,FALSE,./data/img/village/menu_elem_3.png,102,25,24,126,アイテム,20,5,testFont,,,,,,,,,
-JSGAMECLGCommonMenuElement,装備品,buy-wepon,6,FALSE,./data/img/village/menu_elem_3.png,102,25,126,126,装備品,28,5,testFont,,,,,,,,,
+JSGAMECLGCommonMenuElement,アイテム,buy-item,6,FALSE,./data/img/village/menu_elem_3.png,102,25,24,126,アイテム,20,5,testFont,textFront,textShadow,,,,,,,,,
+JSGAMECLGCommonMenuElement,装備品,buy-wepon,6,FALSE,./data/img/village/menu_elem_3.png,102,25,126,126,装備品,28,5,testFont,textFront,textShadow,,,,,,,,,
 
-JSGAMECLGCommonMenuElement,所持品,sell-current,6,FALSE,./data/img/village/menu_elem_3.png,102,25,24,126,所持品,28,5,testFont,,,,,,,,,
-JSGAMECLGCommonMenuElement,倉庫,sell-depot,6,FALSE,./data/img/village/menu_elem_3.png,102,25,126,126,倉庫,36,5,testFont,,,,,,,,,
-JSGAMECLGCommonMenuElement,装備品,sell-wepon,6,FALSE,./data/img/village/menu_elem_3.png,102,25,228,126,装備品,28,5,testFont,,,,,,,,,
+JSGAMECLGCommonMenuElement,所持品,sell-current,6,FALSE,./data/img/village/menu_elem_3.png,102,25,24,126,所持品,28,5,testFont,textFront,textShadow,,,,,,,,,
+JSGAMECLGCommonMenuElement,倉庫,sell-depot,6,FALSE,./data/img/village/menu_elem_3.png,102,25,126,126,倉庫,36,5,testFont,textFront,textShadow,,,,,,,,,
+JSGAMECLGCommonMenuElement,装備品,sell-wepon,6,FALSE,./data/img/village/menu_elem_3.png,102,25,228,126,装備品,28,5,testFont,textFront,textShadow,,,,,,,,,
 
 #背景,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonImage,単純な画像表示部品,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,,,,,,,,,,,,,

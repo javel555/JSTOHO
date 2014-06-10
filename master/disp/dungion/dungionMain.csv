@@ -2,12 +2,12 @@
 #
 
 #全景タイトル
-JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle1,1000,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,１ダンジョン！,testFont
-JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle2,6,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,２ダンジョン！,testFont
-JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle3,1000,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,３ダンジョン！,testFont
+JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle1,1000,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,１ダンジョン！,testFont,textFront,textShadow
+JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle2,6,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,２ダンジョン！,testFont,textFront,textShadow
+JSGAMECLGCommonTextWindow,コメント,VillageMenuTitle3,1000,true,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,３ダンジョン！,testFont,textFront,textShadow
 
 #テキストウィンドウ
-JSGAMECLGCommonTextWindow,コメント,MainMenuText,50,true,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,ダンジョン！！！,testFont
+JSGAMECLGCommonTextWindow,コメント,MainMenuText,50,true,./data/img/village/window9x9.png,9,9,0,430,900,27,100,1,ダンジョン！！！,testFont,textFront,textShadow
 
 #イメージ部品テスト
 JSGAMECLGCommonImage,コメント,ImageTest,1000,true,./data/img/village/cursol.png,13,13,0,25
