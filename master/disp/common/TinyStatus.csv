@@ -60,10 +60,10 @@ JSGAMECLGCommonText,MP数字3,SYS_Tiny-MPText3,20002,TRUE,550,447,サンプルテキスト
 ,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonAnimation,単純なアニメ,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,画像横個数,画像縦個数,フレームレート,ループ有無,表示座標X,表示座標Y,,,,
-JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim0,20003,TRUE,./data/img/character/okuu_wait.png,64,64,1,1,10,TRUE,5,405,,,5,15
-JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim1,20003,TRUE,./data/img/character/okuu_wait.png,64,64,1,1,10,TRUE,165,405,,,,
-JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim2,20003,TRUE,./data/img/character/okuu_wait.png,64,64,1,1,10,TRUE,325,405,,,,
-JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim3,20003,TRUE,./data/img/character/okuu_wait.png,64,64,1,1,10,TRUE,485,405,,,,
+JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim0,20003,TRUE,dummy,64,64,1,1,10,TRUE,5,405,,,5,15
+JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim1,20003,TRUE,dummy,64,64,1,1,10,TRUE,165,405,,,,
+JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim2,20003,TRUE,dummy,64,64,1,1,10,TRUE,325,405,,,,
+JSGAMECLGCommonAnimation,上,SYS_Tiny-CharaAnim3,20003,TRUE,dummy,64,64,1,1,10,TRUE,485,405,,,,
 ,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonImage,顔グラ,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonImage,上,keine-slot-chara1,20003,TRUE,./data/img/character/okuu_soro.png,64,64,5,405,,,,,,,,
