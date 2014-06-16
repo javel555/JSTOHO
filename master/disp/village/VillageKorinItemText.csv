@@ -1,8 +1,8 @@
 #アイテム説明欄,,,,,,,,,,,
 #背景,,,,,,,,,,,
-JSGAMECLGCommonWindow,アイテム説明欄背景,Village-Item-Info-Window,2000,TRUE,./data/img/common/window9x9.png,9,9,400,190,220,32
+JSGAMECLGCommonWindow,アイテム説明欄背景,Village-Item-Info-Window,2000,TRUE,./data/img/common/window15x15.png,15,15,400,145,200,32
 #アイテム説明,,,,,,,,,,,
-JSGAMECLGCommonText,アイテム説明,Village-Item-Info,2001,TRUE,405,195,サンプルテキスト,middle,textFront,textShadow,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Info,2001,TRUE,413,158,サンプルテキスト,middle,textFront,textShadow,
 #アイテム重さ,,,,,,,,,,,
-JSGAMECLGCommonText,アイテム説明,Village-Item-Weight-Label,2001,TRUE,550,211,重さ：,middle,textFront,textShadow,
-JSGAMECLGCommonText,アイテム説明,Village-Item-Weight,2001,TRUE,595,211,サン,middle,textFront,textShadow,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Weight-Label,2001,TRUE,500,178,重さ：,middle,textFront,textShadow,
+JSGAMECLGCommonText,アイテム説明,Village-Item-Weight,2001,TRUE,560,178,サン,middle,textFront,textShadow,
