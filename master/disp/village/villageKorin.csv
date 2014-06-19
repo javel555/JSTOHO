@@ -11,7 +11,7 @@ JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/common/window15
 ,,,,,,,,,,,,,,,,,,,,,,,,
 #アイテム一覧とかのリスト,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデント左,インデント下,,
-JSGAMECLGCommonTextSelecter,アイテム一覧,korin-item-menu,4,FALSE,./data/img/common/window35x35.png,35,35,10,140,12,13,290,180,./data/img/village/next.png,13,13,./data/img/village/menu_pointer.png,288,16,testFont,0,10,textFront,textShadow
+JSGAMECLGCommonTextSelecter,アイテム一覧,korin-item-menu,4,FALSE,./data/img/common/window35x35.png,35,35,10,140,12,13,290,180,./data/img/village/next.png,13,13,./data/img/village/menu_pointer.png,288,16,testFont,0,0,textFront,textShadow
 ,,,,,,,,,,,,,,,,,,,,,,,,
 #選択メニュー系,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,,,,,,,,,,,,
