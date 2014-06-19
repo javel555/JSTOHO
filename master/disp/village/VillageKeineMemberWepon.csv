@@ -1,7 +1,7 @@
 #装備ステータス欄,,,,,,,,,,,
 #背景,,,,,,,,,,,
-JSGAMECLGCommonWindow,装備欄背景,Village-Member-Wepon-Window,2000,TRUE,./data/img/common/window9x9.png,15,15,5,160,250,45
+JSGAMECLGCommonWindow,装備欄背景,SYS-Member-Wepon_Wepon-Window,2000,TRUE,./data/img/common/window9x9.png,15,15,5,160,250,45
 ,,,,,,,,,,,
-JSGAMECLGCommonText,装備１,Village-Member-Wepon1,2001,TRUE,50,170,ダミー,middle,textFront,textShadow,
-JSGAMECLGCommonText,装備２,Village-Member-Wepon2,2001,TRUE,50,190,ダミー,middle,textFront,textShadow,
-JSGAMECLGCommonText,装備３,Village-Member-Wepon3,2001,TRUE,50,210,ダミー,middle,textFront,textShadow,
+JSGAMECLGCommonText,装備１,SYS-Member-Wepon_Wepon1,2001,TRUE,50,170,ダミー,middle,textFront,textShadow,
+JSGAMECLGCommonText,装備２,SYS-Member-Wepon_Wepon2,2001,TRUE,50,190,ダミー,middle,textFront,textShadow,
+JSGAMECLGCommonText,装備３,SYS-Member-Wepon_Wepon3,2001,TRUE,50,210,ダミー,middle,textFront,textShadow,
