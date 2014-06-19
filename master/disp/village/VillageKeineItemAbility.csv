@@ -1,0 +1,6 @@
+#特性説明欄,,,,,,,,,,,
+#背景,,,,,,,,,,,
+JSGAMECLGCommonWindow,特性説明欄背景,SYS-Keine-Item-Ability_Window,2000,TRUE,./data/img/common/window9x9.png,9,9,5,300,220,32
+#特性説明,,,,,,,,,,,
+JSGAMECLGCommonText,特性名前,SYS-Keine-Item-Ability_Name,2001,TRUE,10,305,サンプルテキスト,middle,textFront,textShadow,
+JSGAMECLGCommonText,特性説明,SYS-Keine-Item-Ability_Notice,2001,TRUE,10,321,サンプルテキスト,middle,textFront,textShadow,

@@ -1,0 +1,8 @@
+#アイテム説明欄,,,,,,,,,,,
+#背景,,,,,,,,,,,
+JSGAMECLGCommonWindow,アイテム説明欄背景,SYS-Keine-Item-Text_Window,2000,TRUE,./data/img/common/window9x9.png,9,9,5,240,220,32
+#アイテム説明,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Info,2001,TRUE,10,245,サンプルテキスト,middle,textFront,textShadow,
+#アイテム重さ,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight-Label,2001,TRUE,155,261,重さ：,middle,textFront,textShadow,
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight,2001,TRUE,200,261,サン,middle,textFront,textShadow,
