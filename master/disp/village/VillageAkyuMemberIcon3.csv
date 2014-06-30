@@ -1,0 +1,8 @@
+#メンバアイコン１,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+#JSGAMECLGCommonImage,単純な画像表示部品,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,,,,,,,,
+JSGAMECLGCommonImage,上,Akyu-Member-3_MemberUP,6,TRUE,./data/img/common/face_frame.png,120,120,350,320,,,,,,,,
+JSGAMECLGCommonImage,右,Akyu-Member-3_MemberRight,6,TRUE,./data/img/common/face_frame.png,120,120,400,360,,,,,,,,
+JSGAMECLGCommonImage,下,Akyu-Member-3_MemberDown,6,TRUE,./data/img/common/face_frame.png,120,120,350,380,,,,,,,,
+JSGAMECLGCommonImage,左,Akyu-Member-3_MemberLeft,6,TRUE,./data/img/common/face_frame.png,120,120,300,360,,,,,,,,
