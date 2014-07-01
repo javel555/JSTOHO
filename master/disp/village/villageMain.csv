@@ -2,15 +2,15 @@
 JSGAMECLGCommonImage,村画像,back-village,3,TRUE,./data/img/village/map_back.png,604,357,20,60,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 #全景タイトル,,,,,,,,,,,,,,,,,,,,,
-JSGAMECLGCommonTextWindow,コメント,VillageMenuTile,5,TRUE,./data/img/village/window9x9.png,15,15,0,0,63,27,5,1,村,testFont,textFront,textShadow,,,,
+JSGAMECLGCommonTextWindow,コメント,VillageMenuTile,5,TRUE,./data/img/common/window9x9.png,15,15,0,0,63,27,5,1,村,testFont,textFront,textShadow,,,,
 #テキストウィンドウ,,,,,,,,,,,,,,,,,,,,,
-JSGAMECLGCommonTextWindow,コメント,MainMenuText,5,TRUE,./data/img/village/window9x9.png,15,15,0,430,900,27,100,1,仮値,testFont,textFront,textShadow,,,,
+JSGAMECLGCommonTextWindow,コメント,MainMenuText,5,TRUE,./data/img/common/window9x9.png,15,15,0,430,900,27,100,1,仮値,testFont,textFront,textShadow,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 #メニュー一式,,,,,,,,,,,,,,,,,,,,,
-JSTOHOCLGVillageMainMenuElement,香霖堂,kourin,5,TRUE,./data/img/village/menu_elem3_long.png,160,25,10,280,コーリンドー,20,5,./data/img/village/ie.png,57,76,262,148,武器や防具のお買い求めはこちらまで！　国内最大手のコーリンドーへようこそ！,testFont,textFront,textShadow
-JSTOHOCLGVillageMainMenuElement,霊夢,reimu,5,TRUE,./data/img/village/menu_elem3_long.png,160,25,10,305,BARハクタク,20,5,./data/img/village/ie.png,57,76,214,92,パーティ編成ができるぞ！,testFont,textFront,textShadow
-JSTOHOCLGVillageMainMenuElement,慧音,keine,5,TRUE,./data/img/village/menu_elem3_long.png,160,25,10,330,博麗神社,20,5,./data/img/village/ie.png,57,76,396,124,キャラクターの強化はこちらまで。,testFont,textFront,textShadow
-JSTOHOCLGVillageMainMenuElement,阿求,akyu,5,TRUE,./data/img/village/menu_elem3_long.png,160,25,10,355,王宮,20,5,./data/img/village/ie.png,57,76,305,89,セーブとかできたり,testFont,textFront,textShadow
-JSTOHOCLGVillageMainMenuElement,冒険,dungion,5,TRUE,./data/img/village/menu_elem3_long.png,160,25,10,380,ダンジョンへ,20,5,./data/img/village/ie.png,57,76,-100,-100,いざ冒険の旅に出発！,testFont,textFront,textShadow
+JSTOHOCLGVillageMainMenuElement,香霖堂,kourin,5,TRUE,./data/img/common/menu_elem3_long.png,160,25,10,280,コーリンドー,20,5,./data/img/village/ie.png,57,76,262,148,武器や防具のお買い求めはこちらまで！　国内最大手のコーリンドーへようこそ！,testFont,textFront,textShadow
+JSTOHOCLGVillageMainMenuElement,霊夢,reimu,5,TRUE,./data/img/common/menu_elem3_long.png,160,25,10,305,BARハクタク,20,5,./data/img/village/ie.png,57,76,214,92,パーティ編成ができるぞ！,testFont,textFront,textShadow
+JSTOHOCLGVillageMainMenuElement,慧音,keine,5,TRUE,./data/img/common/menu_elem3_long.png,160,25,10,330,博麗神社,20,5,./data/img/village/ie.png,57,76,396,124,キャラクターの強化はこちらまで。,testFont,textFront,textShadow
+JSTOHOCLGVillageMainMenuElement,阿求,akyu,5,TRUE,./data/img/common/menu_elem3_long.png,160,25,10,355,王宮,20,5,./data/img/village/ie.png,57,76,305,89,セーブとかできたり,testFont,textFront,textShadow
+JSTOHOCLGVillageMainMenuElement,冒険,dungion,5,TRUE,./data/img/common/menu_elem3_long.png,160,25,10,380,ダンジョンへ,20,5,./data/img/village/ie.png,57,76,-100,-100,いざ冒険の旅に出発！,testFont,textFront,textShadow
 ,,,,,,,,,,,,,,,,,,,,,
 #背景画像,,,,,,,,,,,,,,,,,,,,,
