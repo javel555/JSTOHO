@@ -1,0 +1,16 @@
+#ダンジョン画面共通部品,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+
+#JSGAMECLGCommonTextWindow,タイトル,ReimuMenuTitle,5,TRUE,./data/img/village/window9x9.png,9,9,5,5,166,32,5,1,ハクレイ=テンプル,testFont,textFront,textShadow,,,,,
+JSGAMECLGCommonTextWindow,セリフ,DungionCommon-Text,5,TRUE,./data/img/common/window20x20.png,20,20,10,10,450,50,25,3,いらっしゃい！\n今日も安いよ！\n幻の３行目,testFont,textFront,textShadow,,,,,,,
+
+#JSGAMECLGCommonText,こめんと,testtest,5,TRUE,100,100,aaaaa,textFont,middle,textShadow,,,,,,
+JSGAMECLGCommonText,現在階層,DungionCommon-CurrentFloor,5,TRUE,50,100,TEST,middle,textFront,textShadow,,,,,,
+JSGAMECLGCommonText,最大階層,DungionCommon-MaxFloor,5,TRUE,75,100,TEST,middle,textFront,textShadow,,,,,,
+
+JSGAMECLGCommonText,現在所持重量,DungionCommon-CurrentWeight,5,TRUE,50,130,TEST,middle,textFront,textShadow,,,,,,
+JSGAMECLGCommonText,最大所持重量,DungionCommon-MaxWeight,5,TRUE,75,130,TEST,middle,textFront,textShadow,,,,,,
+
+JSGAMECLGGauge,探索率,DungionCommon-Hunt,20001,TRUE,./data/img/common/hp-gauge.png,70,10,120,100,100,100,,70,45,,,
+
+

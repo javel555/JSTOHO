@@ -1,0 +1,20 @@
+#ダンジョンアイテム使用画面,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#背景画像,,,,,,,,,,,,,,,,,
+JSGAMECLGCommonImage,背景,BackGround,1,TRUE,./data/img/village/BGI.png,640,480,0,0,,,,,,,,
+
+#アイテム一覧
+#JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデントX,インデントY,,
+JSGAMECLGCommonTextSelecter,アイテム一覧,ItemUse-ItemList,4,TRUE,./data/img/common/window35x35.png,35,35,10,140,12,12,290,180,./data/img/village/next.png,20,25,./data/img/village/menu_pointer.png,341,16,testFont,0,7,textFront,textShadow
+
+#使用・投棄選択
+#JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,,,,,,,,,,,,
+JSGAMECLGCommonMenuElement,使う,ItemUse-Use,5,FALSE,./data/img/common/menu_elem3_long.png,160,25,10,280,使う,20,5,testFont,textFront,textShadow,,
+JSGAMECLGCommonMenuElement,捨てる,ItemUse-Trush,5,FALSE,./data/img/common/menu_elem3_long.png,160,25,10,305,捨てる,20,5,testFont,textFront,textShadow,,
+
+#使用対象選択
+#JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonMenuElement,上,ItemUse-Target1,2001,FALSE,./data/img/village/yajirusi.png,48,30,423,135, ,0,0,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonMenuElement,右,ItemUse-Target2,2001,FALSE,./data/img/village/yajirusi.png,48,30,514,158, ,0,0,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonMenuElement,下,ItemUse-Target3,2001,FALSE,./data/img/village/yajirusi.png,48,30,466,203, ,0,0,testFont,textFront,textShadow,,,,,,,
+JSGAMECLGCommonMenuElement,左,ItemUse-Target4,2001,FALSE,./data/img/village/yajirusi.png,48,30,368,179, ,0,0,testFont,textFront,textShadow,,,,,,,
