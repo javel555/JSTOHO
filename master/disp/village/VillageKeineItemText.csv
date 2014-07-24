@@ -1,8 +1,8 @@
-#アイテム説明欄,,,,,,,,,,,
-#背景,,,,,,,,,,,
-JSGAMECLGCommonWindow,アイテム説明欄背景,SYS-Keine-Item-Text_Window,2000,TRUE,./data/img/common/window9x9.png,9,9,5,240,220,32
-#アイテム説明,,,,,,,,,,,
-JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Info,2001,TRUE,10,245,サンプルテキスト,middle,textFront,textShadow,
-#アイテム重さ,,,,,,,,,,,
-JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight-Label,2001,TRUE,155,261,重さ：,middle,textFront,textShadow,
-JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight,2001,TRUE,200,261,サン,middle,textFront,textShadow,
+#アイテム説明欄,,,,,,,,,,,,,
+#背景,,,,,,,,,,,,,
+JSGAMECLGCommonWindow,アイテム説明欄背景,SYS-Keine-Item-Text_Window,8400,TRUE,./data/img/common/window15x15.png,15,15,10,260,250,32,,
+#アイテム説明,,,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Info,8450,TRUE,23,273,サンプルテキスト,middle,textFront,textShadow,,13,13
+#アイテム重さ,,,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight-Label,8450,TRUE,160,293,重さ：,middle,textFront,textShadow,,150,33
+JSGAMECLGCommonText,アイテム説明,SYS-Keine-Item-Text_Weight,8450,TRUE,220,293,サン,middle,textFront,textShadow,,60,0

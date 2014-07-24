@@ -1,6 +1,6 @@
-#特性説明欄,,,,,,,,,,,
-#背景,,,,,,,,,,,
-JSGAMECLGCommonWindow,特性説明欄背景,SYS-Keine-Item-Ability_Window,2000,TRUE,./data/img/common/window9x9.png,9,9,5,300,220,32
-#特性説明,,,,,,,,,,,
-JSGAMECLGCommonText,特性名前,SYS-Keine-Item-Ability_Name,2001,TRUE,10,305,サンプルテキスト,middle,textFront,textShadow,
-JSGAMECLGCommonText,特性説明,SYS-Keine-Item-Ability_Notice,2001,TRUE,10,321,サンプルテキスト,middle,textFront,textShadow,
+#特性説明欄,,,,,,,,,,,,,
+#背景,,,,,,,,,,,,,
+JSGAMECLGCommonWindow,特性説明欄背景,SYS-Keine-Item-Ability_Window,8400,TRUE,./data/img/common/window15x15.png,15,15,10,325,200,32,,
+#特性説明,,,,,,,,,,,,,
+JSGAMECLGCommonText,特性名前,SYS-Keine-Item-Ability_Name,8450,TRUE,23,338,サンプルテキスト,middle,textFront,textShadow,,13,13
+JSGAMECLGCommonText,特性説明,SYS-Keine-Item-Ability_Notice,8450,TRUE,43,358,サンプルテキスト,middle,textFront,textShadow,,20,20

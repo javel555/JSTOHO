@@ -9,10 +9,10 @@
 #IconImage,イメージパス,幅,高さ,横個数,縦個数
 #,,,,,
 Base,0:Hum,人,,,
-IconImage,./img/type/hum.bmp,32,32,1,1
+IconImage,./data/img/type/hum.png,32,32,1,1
 #,,10,,,
 Base,1:Mon,妖,,,
-IconImage,./img/type/mon.bmp,32,32,1,1
+IconImage,./data/img/type/mon.png,32,32,1,1
 #,,,,,
 Base,2:God,神,,,
-IconImage,./img/type/god.bmp,32,32,1,1
+IconImage,./data/img/type/god.png,32,32,1,1

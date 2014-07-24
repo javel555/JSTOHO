@@ -13,7 +13,7 @@ SellRitu,50
 #,
 #,
 #所持金,
-initialMoney,1000
+initialMoney,100000
 #パーティメンバ１,
 initialMember1,test1
 #パーティメンバ２,
@@ -25,4 +25,4 @@ initialMember4,test4
 #,
 #,
 #キャラクタデータ構築,
-init-exp,100
+init-exp,200
