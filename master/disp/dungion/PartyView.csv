@@ -1,5 +1,9 @@
-#現在パーティの一括表示,,,,,,,,,,,,,,,
-#メンバー画像,,,,,,,,,,,,,,,,,,,,,,
+#現在パーティの一括表示
+#
+#パーティが表示されてるところを一喝指定
+#
+
+#メンバー画像
 #JSGAMECLGCommonAnimation,単純なアニメ,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,画像横個数,画像縦個数,フレームレート,ループ有無,表示座標X,表示座標Y,,,,,,,,,
 JSGAMECLGCommonAnimation,上,DungionCommon-Party1,2000,TRUE,./data/img/character/orin.png,100,100,1,1,5,TRUE,397,165,,,,,,,,,
 JSGAMECLGCommonAnimation,右,DungionCommon-Party2,2000,TRUE,./data/img/character/orin.png,100,100,1,1,5,TRUE,488,188,,,,,,,,,

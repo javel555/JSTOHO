@@ -1,7 +1,11 @@
-#ダンジョン画面共通部品,,,,,,,,,,,,,,,,,
-#,,,,,,,,,,,,,,,,,
+#ダンジョン画面共通部品
+#
+#ダンジョン画面で常に表示されている部品たち
+#
 
-#JSGAMECLGCommonTextWindow,タイトル,ReimuMenuTitle,5,TRUE,./data/img/village/window9x9.png,9,9,5,5,166,32,5,1,ハクレイ=テンプル,testFont,textFront,textShadow,,,,,
+
+
+#JSGAMECLGCommonTextWindow,タイトル,ReimuMenuTitle,5,TRUE,./data/img/village/window15x15.png,15,15,5,5,166,32,5,1,ハクレイ=テンプル,testFont,textFront,textShadow,,,,,
 JSGAMECLGCommonTextWindow,セリフ,DungionCommon-Text,5,TRUE,./data/img/common/window20x20.png,20,20,10,10,450,50,25,3,いらっしゃい！\n今日も安いよ！\n幻の３行目,testFont,textFront,textShadow,,,,,,,
 
 #JSGAMECLGCommonText,こめんと,testtest,5,TRUE,100,100,aaaaa,textFont,middle,textShadow,,,,,,
