@@ -6,7 +6,7 @@
 #Base,アイテムID,アイテム名,アイテム説明,アイテム重さ,販売額,
 #Korin,販売条件ID,解除条件ID,,,,
 #Nitori,合成元アイテムID1,合成元アイテムID2,,,,
-#Item,使用時効果ID,パラメタ（繰り返し）,,,,
+#Item,単体(single)/全体(all)
 #Wepon,装備時効果ID,パラメタ（繰り返し）,,,,
 #WeponStatus,HP上昇値,MP上昇値,ATK上昇値,DEF上昇値,SPD上昇値,CAP上昇値
 #Material,,,,,,
@@ -26,9 +26,9 @@ Base,2:kogasa_no_kasa,小傘の傘,べろが湿ってる,3,200,攻撃力アップ
 Korin,default,0:NoFree,,,,
 Wepon,dummy,10,,,,
 #,,,,,,
-Base,3:yakusou,やくそう１,回復するぞ,1,100,HP回復
+Base,Yakusou,やくそう１,回復するぞ,1,100,HP回復
 Korin,default,test1,,,,
-Item,dummy,20,,,,
+Item,single
 #,,,,,,
 Base,4:seidou,せいどう２,素材だぞ,5,200,素材
 Korin,none,kapper,,,,
@@ -47,8 +47,9 @@ Base,7:unagi,うなぎ４,鳥目にグンバツ,100,10,鳥目が治る
 Korin,default,0:NoFree,,,,
 Material,,,,,,
 #,,,,,,
-Base,8:sumaho,スマホ５,ただの黒い板,100,10,防御力アップ
+Base,Sumaho,スマホ５,ただの黒い板,100,10,防御力アップ
 Korin,default,0:NoFree,,,,
+Item,all
 Material,,,,,,
 #,,,,,,
 Base,9:ba-ru,バールのようなもの６,対エイリアン決戦兵器,100,10,攻撃力アップ

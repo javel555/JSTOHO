@@ -1,2 +1,3 @@
 ./data/master/lua/test.lua
 ./data/master/lua/StatusCalc.lua
+./data/master/lua/ItemEffect.lua

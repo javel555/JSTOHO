@@ -1,5 +1,8 @@
 #ダンジョンメイン,,,,,,,,,,,,,,,,,
-#,,,,,,,,,,,,,,,,,
+#
+#ダンジョンメイン画面でのみ表示される部品
+#
+
 JSGAMECLGCommonTextWindow,上部テキストウィンドウ,DungionMainText,1000,TRUE,./data/img/village/window9x9.png,9,9,0,0,63,27,5,1,１ダンジョン！,testFont,textFront,textShadow
 ,,,,,,,,,,,,,,,,,
 #メインメニュー,,,,,,,,,,,,,,,,,
