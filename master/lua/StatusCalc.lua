@@ -3,11 +3,25 @@ function calcEXP(tel)
 	bai = tel:getRequest("reqBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base * level + bai * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
 
+function calcLocalEXP(tel)
+	calcEXP(tel)
+
+	EXP = tel:getResponce("result")
+
+	--CalcPrevLevel
+	level = tel:getRequest("level")
+	tel:setRequest("level", (level-1).."")
+	calcEXP(tel)
+	prevEXP = tel:getResponce("result")
+
+	tel:setResponce("result", (EXP-prevEXP).."")
+
+end
 
 function calcHP(tel)
 	base = tel:getRequest("HPBase")

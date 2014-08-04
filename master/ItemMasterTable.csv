@@ -17,7 +17,7 @@ WeponStatus,0,0,0,0,0,0
 ,,,,,,
 ,,,,,,
 #,,,,,,
-Base,1:reimu_no_ofuda,霊夢の御札,霊験あらたかな御札,1,100,攻撃力アップ
+Base,1:reimu_no_ofuda,霊夢の御札,霊験あらたかな御札,1,200000,攻撃力アップ
 Korin,default,0:NoFree,,,,
 Wepon,dummy,10,,,,
 WeponStatus,10,20,30,40,50,60
@@ -140,3 +140,8 @@ Material,,,,,,
 Base,26:gomi,２６：ごみ２３,テストのために生まれた無意味なかけら,100,10,テスト
 Korin,default,0:NoFree,,,,
 Material,,,,,,
+#
+Base,artTest,発掘品テスト,ダンジョンで拾ったかたまり,0,0,テスト
+Artifact,3:yakusou,50
+Artifact,1:reimu_no_ofuda,25
+Artifact,5:dou_no_tsurugi,25
