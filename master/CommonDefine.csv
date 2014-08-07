@@ -32,3 +32,17 @@ initialMember4,test4
 
 #キャラクタデータ構築,
 init-exp,200
+
+#ダンジョン系仕様調整項目
+#全滅時獲得経験値割合(%)
+LoseEXPRate,10
+#経過時間最大値(回)
+TimeMax,30
+#先へ進む選択時経過時間消費免除探索率(%)
+ExemptionTimeHunting,100
+#先へ進む解放探索率(%)
+ReleaseNextHunting,30
+#探索率上昇値基礎(%)
+HuntingAddBase,15
+#探索率上昇値分布(±%)
+HuntingAddRange,5
