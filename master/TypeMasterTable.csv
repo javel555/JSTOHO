@@ -8,11 +8,11 @@
 #Base,タイプID,タイプ名,,,
 #IconImage,イメージパス,幅,高さ,横個数,縦個数
 #,,,,,
-Base,0:Hum,人,,,
+Base,Hum,人,,,
 IconImage,./data/img/type/hum.png,32,32,1,1
 #,,10,,,
-Base,1:Mon,妖,,,
+Base,Mon,妖,,,
 IconImage,./data/img/type/mon.png,32,32,1,1
 #,,,,,
-Base,2:God,神,,,
+Base,God,神,,,
 IconImage,./data/img/type/god.png,32,32,1,1

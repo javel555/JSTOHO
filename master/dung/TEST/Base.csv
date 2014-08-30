@@ -4,9 +4,13 @@
 #StartImage,パス,Width,Height,XNum,YNum,出発画面のイメージ,
 #BackImage,表示開始階層番号,パス,Width,Height,XNum,YNum,ダンジョン背景
 #FloorInformation,階層情報テーブルパス、未実装 ファイル分けないかも?,,,,,,
-#EncountTable, エンカウントテーブルパス、未実装,,,,,,
-#ItemTable, アイテムテーブルパス、未実装,,,,,,
-#RandomEventTable, ランダムイベントテーブルパス、未実装,,,,,,
+#EncountTable, エンカウントテーブルパス,,,,,
+#ItemTable, アイテムテーブルパス,,,,,,
+#RandomEventTable, ランダムイベントテーブルパス,,,,,,
 ,,,,,,,
-Base,sampleDungion,サンプルダンジョン,10,,,,
+Base,sampleDungion,サンプルダンジョン,5,,,,
 FloorInformation,./data/master/dung/TEST/Floor.csv,,,,,,
+EncountTable,sampleDungion
+ItemTable,sampleDungion
+RandomEventTable,sampleDungion
+

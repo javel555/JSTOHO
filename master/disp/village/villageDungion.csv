@@ -1,11 +1,13 @@
 #ダンジョン出発
 #
-JSGAMECLGCommonTextWindow,セリフ,DungionMenuText,5,TRUE,./data/img/common/window20x20.png,20,20,10,10,450,50,25,3,サンプル,testFont,textFront,textShadow
+JSGAMECLGCommonImage,村画像,back-village,3,TRUE,./data/img/village/map_back.png,604,357,20,60,,,,,,,,,,,,
+
+JSGAMECLGCommonTextWindow,セリフ,DungionMenuText,5,TRUE,./data/img/common/window20x20.png,20,20,10,10,450,50,25,3,どこへ行こうか？,testFont,textFront,textShadow
 JSGAMECLGCommonImage,顔グラ,back-face,6,TRUE,./data/img/common/face_frame.png,120,120,510,10,,,,,,,,
 
 #ダンジョンリスト
 JSGAMECLGCommonMenuElement,サンプルダンジョン,dungionSelect-1,10,TRUE,./data/img/village/menu_elem_2.png,83,32,50,110,紅魔城,25,9,testFont,textFront,textShadow,,
 
 #選択中ダンジョン画像
-JSGAMECLGCommonImage,選択中ダンジョン画像,dungionImage,3	,TRUE,./data/img/test/samp.png,521,313,60,70,,,,,,,,
+JSGAMECLGCommonImage,選択中ダンジョン画像,dungionImage,2000,TRUE,./data/img/test/samp2.png,256,157,350,200,,,,,,,,
 
