@@ -22,10 +22,10 @@ JSGAMEALGPointMove,キャラ４右ワープ,chWp4,DungionCommon-Party4,392,209,1,false,2
 
 JSGAMECLGFadeInEffect,フェードイン,fadeIn,20,30
 
-JSGAMEALGPointMove,キャラ１左移動,chMoveB1,DungionCommon-Party1,397,165,30,false,30
-JSGAMEALGPointMove,キャラ２左移動,chMoveB2,DungionCommon-Party2,488,188,30,false,30
-JSGAMEALGPointMove,キャラ３左移動,chMoveB3,DungionCommon-Party3,440,233,30,false,30
-JSGAMEALGPointMove,キャラ４左移動,chMoveB4,DungionCommon-Party4,342,209,30,false,30
+JSGAMEALGPointMove,キャラ１左移動,chMoveB1,DungionCommon-Party1,397,165,30,false,29
+JSGAMEALGPointMove,キャラ２左移動,chMoveB2,DungionCommon-Party2,488,188,30,false,29
+JSGAMEALGPointMove,キャラ３左移動,chMoveB3,DungionCommon-Party3,440,233,30,false,29
+JSGAMEALGPointMove,キャラ４左移動,chMoveB4,DungionCommon-Party4,342,209,30,false,29
 
 
 
