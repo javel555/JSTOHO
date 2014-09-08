@@ -17,5 +17,6 @@ JSGAMECLGCommonAnimation,テスト画像,test-Image-Hunt,3000,FALSE,./data/img/test/h
 #JSGAMECLGCommonImage,テスト画像,test-Image-GetItem,3000,FALSE,./data/img/test/item.png,190,90,50,160,,,,,,,
 JSGAMECLGCommonAnimation,テスト画像,test-Image-GetItem,3000,FALSE,./data/img/test/item_0_14x1.png,96,120,13,1,13,1,FALSE,FALSE,90,165,
 JSGAMECLGCommonImage,テスト画像,test-Image-Encount,3000,FALSE,./data/img/test/エンカウント.png,190,90,50,160,,,,,,,
-JSGAMECLGCommonImage,テスト画像,test-Image-RandomEv,3000,FALSE,./data/img/test/ランダムイベント.png,190,90,50,160,,,,,,,
+#JSGAMECLGCommonImage,テスト画像,test-Image-RandomEv,3000,FALSE,./data/img/test/ランダムイベント.png,190,90,50,160,,,,,,,
+JSGAMECLGCommonAnimation,テスト画像,test-Image-RandomEv,3000,FALSE,./data/img/test/ランダムイベント.png,190,90,1,1,1,5,FALSE,FALSE,90,165,
 JSGAMECLGCommonImage,テスト画像,test-Image-Next,3000,FALSE,./data/img/test/移動中.png,190,90,50,160,,,,,,,
