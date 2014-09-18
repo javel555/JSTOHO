@@ -3,7 +3,7 @@
 #ダンジョン画面で常に表示されている部品たち,,,,,,,,,,,,,,,,,,
 #,,,,,,,,,,,,,,,,,,
 #背景画像,,,,,,,,,,,,,,,,,,
-JSGAMECLGCommonImage,背景,BackGround,1,TRUE,./data/img/village/loop.png,1280,480,-200,0,,,,,,,,,
+JSGAMECLGCommonImage,背景,BackGround,1,TRUE,./data/img/village/loop.png,1280,480,-100,0,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextWindow,タイトル,ReimuMenuTitle,5,TRUE,./data/img/village/window15x15.png,15,15,5,5,166,32,5,1,ハクレイ=テンプル,testFont,textFront,textShadow,
 JSGAMECLGCommonTextWindow,セリフ,DungionCommon-Text,5,TRUE,./data/img/common/window20x20.png,20,20,10,10,450,50,25,3,いらっしゃい！\n今日も安いよ！\n幻の３行目,testFont,textFront,textShadow,
