@@ -8,24 +8,27 @@
 #キャラを左へ移動
 #
 
-JSGAMEALGPointMove,キャラ１左移動,chMove1,DungionCommon-Party1,297,165,20,false,0
-JSGAMEALGPointMove,キャラ２左移動,chMove2,DungionCommon-Party2,388,188,20,false,0
-JSGAMEALGPointMove,キャラ３左移動,chMove3,DungionCommon-Party3,340,233,20,false,0
-JSGAMEALGPointMove,キャラ４左移動,chMove4,DungionCommon-Party4,242,209,20,false,0
+#JSGAMEALGPointMove,キャラ１左移動,chMove1,DungionCommon-Party1,297,165,20,false,0
+#JSGAMEALGPointMove,キャラ２左移動,chMove2,DungionCommon-Party2,388,188,20,false,0
+#JSGAMEALGPointMove,キャラ３左移動,chMove3,DungionCommon-Party3,340,233,20,false,0
+#JSGAMEALGPointMove,キャラ４左移動,chMove4,DungionCommon-Party4,242,209,20,false,0
+
+JSGAMEALGPointMove,背景左移動,BGMove,BackGround,-100,0,20,false,0
 
 JSGAMECLGFadeOutEffect,フェードアウト,fadeOut,20,0
 
-JSGAMEALGPointMove,キャラ１右ワープ,chWp1,DungionCommon-Party1,447,165,1,false,21
-JSGAMEALGPointMove,キャラ２右ワープ,chWp2,DungionCommon-Party2,538,188,1,false,21
-JSGAMEALGPointMove,キャラ３右ワープ,chWp3,DungionCommon-Party3,490,233,1,false,21
-JSGAMEALGPointMove,キャラ４右ワープ,chWp4,DungionCommon-Party4,392,209,1,false,21
+#JSGAMEALGPointMove,キャラ１右ワープ,chWp1,DungionCommon-Party1,447,165,1,false,21
+#JSGAMEALGPointMove,キャラ２右ワープ,chWp2,DungionCommon-Party2,538,188,1,false,21
+#JSGAMEALGPointMove,キャラ３右ワープ,chWp3,DungionCommon-Party3,490,233,1,false,21
+#JSGAMEALGPointMove,キャラ４右ワープ,chWp4,DungionCommon-Party4,392,209,1,false,21
+JSGAMEALGPointMove,背景左移動,BGReset,BackGround,-200,0,0,false,21
 
 JSGAMECLGFadeInEffect,フェードイン,fadeIn,20,30
 
-JSGAMEALGPointMove,キャラ１左移動,chMoveB1,DungionCommon-Party1,397,165,30,false,29
-JSGAMEALGPointMove,キャラ２左移動,chMoveB2,DungionCommon-Party2,488,188,30,false,29
-JSGAMEALGPointMove,キャラ３左移動,chMoveB3,DungionCommon-Party3,440,233,30,false,29
-JSGAMEALGPointMove,キャラ４左移動,chMoveB4,DungionCommon-Party4,342,209,30,false,29
+#JSGAMEALGPointMove,キャラ１左移動,chMoveB1,DungionCommon-Party1,397,165,30,false,29
+#JSGAMEALGPointMove,キャラ２左移動,chMoveB2,DungionCommon-Party2,488,188,30,false,29
+#JSGAMEALGPointMove,キャラ３左移動,chMoveB3,DungionCommon-Party3,440,233,30,false,29
+#JSGAMEALGPointMove,キャラ４左移動,chMoveB4,DungionCommon-Party4,342,209,30,false,29
 
 
 
