@@ -140,8 +140,8 @@ Material,,,,,,
 Base,gomiN,２６：ごみ２３,テストのために生まれた無意味なかけら,100,10,テスト
 Korin,default,0:NoFree,,,,
 Material,,,,,,
-#
+#,,,,,,
 Base,artTest,発掘品テスト,ダンジョンで拾ったかたまり,0,0,テスト
-Artifact,yakusou,50
-Artifact,reimu_no_ofuda,25
-Artifact,dou_no_tsurugi,25
+Artifact,yakusou,50,,,,
+Artifact,reimu_no_ofuda,25,,,,
+Artifact,dou_no_tsurugi,25,,,,
