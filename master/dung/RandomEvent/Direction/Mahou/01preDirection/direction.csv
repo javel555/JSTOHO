@@ -1,0 +1,7 @@
+#,,,,,,,,
+#　トラップ魔法演出
+#
+
+JSGAMECLGCommonAnimation,トラップ魔法アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/maho_0_10x3.png,96,96,10,3,30,1,FALSE,FALSE,90,165,
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,トラップ魔法だ！,0
+

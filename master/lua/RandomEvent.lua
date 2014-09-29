@@ -1,102 +1,34 @@
-function EV1(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- 落とし穴
+function Otoshiana(tel)
+	tel:setResponce("diffHP","-30")
 end
 
-function EV2(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- 爆弾
+function Bakudan(tel)
+	tel:setResponce("diffHP","-60")
 end
 
-
-function EV3(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- ガス
+function Gus(tel)
+	tel:setResponce("diffMP","-20")
 end
 
-
-function EV4(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- 魔法陣
+function Mahou(tel)
+	tel:setResponce("spSwap","true")
 end
 
-
-function EV4(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- ネット
+function Net(tel)
+	tel:setResponce("diffTime","-5")
 end
 
-function EV5(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- 経験値
+function EXP(tel)
+	tel:setResponce("diffEXP","100")
 end
 
-function EV6(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
-end
-
-function EV7(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
-end
-
-function EV8(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
-end
-
-function EV9(tel)
---	base = tel:getRequest("reqBase")
---	bai = tel:getRequest("reqBai")
---	level = tel:getRequest("level")
---
---	val = base * level + bai * (level - 1)
---
---	tel:setResponce("result", val.."")
+-- 矢
+function Ya(tel)
+	tel:setResponce("diffHP","-10");
 end

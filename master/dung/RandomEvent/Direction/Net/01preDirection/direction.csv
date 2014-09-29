@@ -1,0 +1,7 @@
+#,,,,,,,,
+#　ネット演出
+#
+
+JSGAMECLGCommonAnimation,落とし穴アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/net_anim_48x48.png,96,96,5,6,30,1,FALSE,FALSE,90,165,
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,ネットだ！,0
+

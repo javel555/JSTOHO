@@ -1,0 +1,11 @@
+ランダムイベントの演出ファイルを配置する
+
+[ランダムイベントID]
+　　｜
+　　├[preDirection]
+　　｜　　├direction.csv
+　　｜　　└wait.csv
+　　｜
+　　└[postDirection]
+　　　　　├direction.csv
+　　　　　└wait.csv

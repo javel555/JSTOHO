@@ -1,0 +1,7 @@
+#,,,,,,,,
+#　毒ガス演出
+#
+
+JSGAMECLGCommonAnimation,毒ガスアニメ,RandomEvent-Image,3000,TRUE,./data/img/test/gus_anim.png,96,126,10,3,30,1,FALSE,FALSE,90,165,
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,毒ガスだ！,0
+

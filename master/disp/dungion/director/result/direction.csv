@@ -1,0 +1,5 @@
+#リザルト演出
+#
+JSGAMEALGPointMove,背景右移動,BGMove,BackGround,-300,0,20,FALSE,0
+JSGAMECLGFadeOutEffect,フェードアウト,fadeOut,20,0,,,,
+JSGAMECLGFadeInEffect,フェードイン,fadeIn,0,31,,,,

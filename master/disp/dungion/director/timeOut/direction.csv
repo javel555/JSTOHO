@@ -1,0 +1,11 @@
+#リザルト演出
+#
+
+#背景～キャラのみフェードアウト
+JSGAMECLGCommonImage,黒色フィルタ,FadeFilter,3005,TRUE,./data/img/effect/BlackFilter.png,640,480,0,0,,,
+JSGAMEFILAlphaFadeIn,黒色フィルタをフェードイン,FilterAlpFade,FadeFilter,0,30,0,
+
+#時間切れ画像をセット
+JSGAMECLGCommonImage,時間切れ画像,timeOutImage,3006,TRUE,./data/img/test/TIME.png,520,62,60,220,
+JSGAMEFILAlphaFadeIn,時間切れ画像をフェードイン,timeOutAlpFade,timeOutImage,0,30,0,
+

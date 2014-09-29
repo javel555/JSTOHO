@@ -1,0 +1,17 @@
+#,,,,,,,,
+#　先へ進むアニメ前半演出,,,,,,,,
+#,,,,,,,,
+,,,,,,,,
+JSGAMEALGPointMove,背景左移動,BGMove,BackGround,-100,0,20,FALSE,0
+
+#背景～キャラのみフェードアウト
+#JSGAMECLGFadeOutEffect,フェードアウト,fadeOut,20,0,,,,
+JSGAMECLGCommonImage,黒色フィルタ,FadeFilter,3005,TRUE,./data/img/effect/BlackFilter.png,640,480,0,0,,,
+JSGAMEFILAlphaFadeIn,黒色フィルタをフェードイン,FilterAlpFade,FadeFilter,0,20,0,
+
+
+#JSGAMEALGPointMove,背景左移動,BGReset,BackGround,-250,0,0,FALSE,0
+#JSGAMEALGPointMove,背景左移動,BGReset2,BackGround,-100,0,30,FALSE,1
+,,,,,,,,
+#JSGAMECLGFadeInEffect,フェードイン,fadeIn,20,0,,,,
+

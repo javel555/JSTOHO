@@ -9,5 +9,5 @@ JSGAMECLGCommonImage,顔グラ,back-face,6,TRUE,./data/img/common/face_frame.png,12
 JSGAMECLGCommonMenuElement,サンプルダンジョン,dungionSelect-1,10,TRUE,./data/img/village/menu_elem_2.png,83,32,50,110,紅魔城,25,9,testFont,textFront,textShadow,,
 
 #選択中ダンジョン画像
-JSGAMECLGCommonImage,選択中ダンジョン画像,dungionImage,2000,TRUE,./data/img/test/samp2.png,256,157,350,200,,,,,,,,
+JSGAMECLGCommonImage,選択中ダンジョン画像,dungionImage,2000,TRUE,./data/img/test/samp2.png,198,124,350,200,,,,,,,,
 

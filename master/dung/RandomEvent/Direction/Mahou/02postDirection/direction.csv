@@ -1,0 +1,5 @@
+#,,,,,,,,
+#　トラップ魔法演出
+#
+
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPとMPが入れ替わる！,0
