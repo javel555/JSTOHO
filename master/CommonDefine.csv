@@ -7,6 +7,9 @@ ItemNameMaxLength,10
 #’Ê‰İ‹L†(‰~‚Æ‚©G‚Æ‚©),
 MoneySymbol,‚f
 
+#‹àŠzÅ‘åŒ…”
+MoneyMaxLength,6
+
 #”„‹p’lˆø—¦(%),
 SellRitu,50
 

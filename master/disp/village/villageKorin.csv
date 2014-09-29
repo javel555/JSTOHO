@@ -9,7 +9,8 @@ JSGAMECLGCommonTextWindow,重さ,korin-party-cap,5,TRUE,./data/img/common/window15
 #アイテム一覧とかのリスト,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデントX,インデントY,,
 JSGAMECLGCommonTextSelecter,アイテム一覧,korin-item-menu,4,FALSE,./data/img/common/window15x15.png,15,15,20,153,12,13,290,200,./data/img/village/next.png,290,25,./data/img/common/menu_pointer.png,311,16,testFont,0,15,textFront,textShadow
-JSGAMECLGCommonText,アイテムリスト項目名行,korin-item-header,5,TRUE,35,165,名前　　　　　　　　　　　　価格　個数,middle,textFront,textShadow,,,,,,,,,,,,,,
+JSGAMECLGCommonText,購入リスト項目名行,korin-buy-header,5,FALSE,35,165,名前　　　　　　　　　価格,middle,textFront,textShadow,,,,,,,,,,,,,,
+JSGAMECLGCommonText,売却リスト項目名行,korin-seal-header,5,FALSE,35,165,名前　　　　　　　　　価格　　個数,middle,textFront,textShadow,,,,,,,,,,,,,,
 
 
 ,,,,,,,,,,,,,,,,,,,,,,,,
