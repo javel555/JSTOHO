@@ -8,11 +8,11 @@
 #テストデータ,,,,,,,,,,,,,,,,,,,,,,,,,
 Base,test1,トジコ,ちんちん1,魔法使い,私の歌を聞けぇー！,Hum,20,2,30,3,41,4,51,5,61,6,74,7,81,8,abc,aaa,bbb,ccc,ddd
 BasicImage,./data/img/character/tojiko.png,64,64,4,1,,,,,,,,,,,,,,,,,,,,
-IconImage,./data/img/character/tmp1_icon.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
+IconImage,./data/img/character/tojiko_soro.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
 TinyImage,./data/img/character/tojiko_soro.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
 Base,test2,スイカ,ちんちん2,拳闘士,私の歌を聞けぇー！,Mon,20,2,30,3,42,4,52,5,62,6,73,7,82,8,abc,aaa,bbb,ccc,ddd
 BasicImage,./data/img/character/suika.png,64,64,4,1,,,,,,,,,,,,,,,,,,,,
-IconImage,./data/img/character/tmp2_icon.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
+IconImage,./data/img/character/suika_soro.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
 TinyImage,./data/img/character/suika_soro.png,64,64,1,1,,,,,,,,,,,,,,,,,,,,
 Base,test3,お空,ちんちん3,聖騎士,私の歌を聞けぇー！,Mon,20,2,30,3,43,4,53,5,63,6,72,7,83,8,abc,aaa,bbb,ccc,ddd
 BasicImage,./data/img/character/okuu_wait.png,64,64,4,1,,,,,,,,,,,,,,,,,,,,
