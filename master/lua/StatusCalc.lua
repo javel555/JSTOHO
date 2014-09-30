@@ -2,8 +2,10 @@ function calcEXP(tel)
 	base = tel:getRequest("reqBase")
 	bai = tel:getRequest("reqBai")
 	level = tel:getRequest("level")
-
-	val = base * level + bai * (level - 1)
+	
+	-- Šî‘b’l‚É‘Î‚µ‚ÄAŠî‘b’l{Šî‘b’l*”{—¦‚Ã‚Â‘‚¦‚éŠ´‚¶
+	-- Šî‘b’l{Šî‘b’l*ƒŒƒxƒ‹ - 1 + Šî‘b’l*”{—¦*ƒŒƒxƒ‹
+	val = base + base * (level - 1) + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -23,12 +25,14 @@ function calcLocalEXP(tel)
 
 end
 
+-- ŠeíƒXƒe[ƒ^ƒX‚ÍAŠî‘b’l{Šî‘b’l*”{—¦‚ÌƒCƒ[ƒW
+
 function calcHP(tel)
 	base = tel:getRequest("HPBase")
 	bai = tel:getRequest("HPBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -39,7 +43,7 @@ function calcMP(tel)
 	bai = tel:getRequest("MPBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -50,7 +54,7 @@ function calcATK(tel)
 	bai = tel:getRequest("ATKBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -61,7 +65,7 @@ function calcDEF(tel)
 	bai = tel:getRequest("DEFBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -72,7 +76,7 @@ function calcSPD(tel)
 	bai = tel:getRequest("SPDBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end
@@ -83,7 +87,7 @@ function calcCAP(tel)
 	bai = tel:getRequest("CAPBai")
 	level = tel:getRequest("level")
 
-	val = base + bai * level
+	val = base + base * (bai / 100) * (level - 1)
 
 	tel:setResponce("result", val.."")
 end

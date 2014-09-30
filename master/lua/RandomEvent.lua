@@ -1,16 +1,17 @@
 -- 落とし穴
 function Otoshiana(tel)
-	tel:setResponce("diffHP","-30")
+	tel:setResponce("diffHP","-20")
+	tel:setResponce("diffTime","-1")
 end
 
 -- 爆弾
 function Bakudan(tel)
-	tel:setResponce("diffHP","-60")
+	tel:setResponce("diffHP","-40")
 end
 
 -- ガス
 function Gus(tel)
-	tel:setResponce("diffMP","-20")
+	tel:setResponce("diffMP","-10")
 end
 
 -- 魔法陣
@@ -20,7 +21,7 @@ end
 
 -- ネット
 function Net(tel)
-	tel:setResponce("diffTime","-5")
+	tel:setResponce("diffTime","-2")
 end
 
 -- 経験値

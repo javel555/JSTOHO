@@ -20,7 +20,7 @@ SellRitu,50
 #,
 
 #所持金,
-initialMoney,100000
+initialMoney,1000
 
 #パーティメンバ１,
 initialMember1,test1
@@ -34,7 +34,7 @@ initialMember4,test4
 #,
 
 #キャラクタデータ構築,
-init-exp,200
+init-exp,0
 
 #ダンジョン系仕様調整項目
 #全滅時獲得経験値割合(%)
