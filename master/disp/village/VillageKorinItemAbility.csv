@@ -1,6 +1,6 @@
-#特性説明欄,,,,,,,,,,,
-#背景,,,,,,,,,,,
-JSGAMECLGCommonWindow,特性説明欄背景,SYS-Korin-Item-Ability_Window,2000,TRUE,./data/img/common/window15x15.png,15,15,400,210,200,32
-#特性説明,,,,,,,,,,,
-JSGAMECLGCommonText,特性名前,SYS-Korin-Item-Ability_Name,2001,TRUE,413,223,サンプルテキスト,middle,textFront,textShadow,
-JSGAMECLGCommonText,特性説明,SYS-Korin-Item-Ability_Notice,2001,TRUE,433,243,サンプルテキスト,middle,textFront,textShadow,
+#特性説明欄,,,,,,,,,,,,
+#背景,,,,,,,,,,,,
+JSGAMECLGCommonWindow,特性説明欄背景,SYS-Korin-Item-Ability_Window,8200,TRUE,./data/img/common/window15x15.png,15,15,400,210,200,32,
+#特性説明,,,,,,,,,,,,
+JSGAMECLGCommonText,特性名前,SYS-Korin-Item-Ability_Name,8300,TRUE,413,223,サンプルテキスト,middle,textFront,textShadow,,
+JSGAMECLGCommonText,特性説明,SYS-Korin-Item-Ability_Notice,8300,TRUE,433,243,サンプルテキスト,middle,textFront,textShadow,,
