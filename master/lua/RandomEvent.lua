@@ -33,3 +33,8 @@ end
 function Ya(tel)
 	tel:setResponce("diffHP","-10");
 end
+
+-- –î
+function Ya2(tel)
+	tel:setResponce("diffHP","-10000");
+end
