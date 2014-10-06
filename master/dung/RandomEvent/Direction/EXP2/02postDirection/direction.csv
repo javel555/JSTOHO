@@ -1,0 +1,4 @@
+#,,,,,,,,
+#　経験値演出
+#
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,100の経験値を取得！,0

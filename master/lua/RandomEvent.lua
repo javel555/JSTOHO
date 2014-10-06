@@ -1,6 +1,30 @@
+-- tel.setResponce("diffHP", "0");
+-- tel.setResponce("diffMP", "0");
+-- tel.setResponce("diffEXP", "0");
+-- tel.setResponce("diffHunt", "0");
+-- tel.setResponce("diffTime", "0");
+-- tel.setResponce("diffEnemyLevel", "0");
+-- tel.setResponce("diffMonney", "0");
+-- tel.setResponce("diffItemId", "_none");
+-- tel.setResponce("diffItemCount", "0");
+
+
+
 -- —Ž‚Æ‚µŒŠ
 function Otoshiana(tel)
 	tel:setResponce("diffHP","-20")
+	tel:setResponce("diffTime","-1")
+end
+
+-- —Ž‚Æ‚µŒŠ
+function Otoshiana2(tel)
+	tel:setResponce("diffHP","-40")
+	tel:setResponce("diffTime","-1")
+end
+
+-- —Ž‚Æ‚µŒŠ
+function Otoshiana3(tel)
+	tel:setResponce("diffHP","-60")
 	tel:setResponce("diffTime","-1")
 end
 
@@ -8,6 +32,17 @@ end
 function Bakudan(tel)
 	tel:setResponce("diffHP","-40")
 end
+
+-- ”š’e
+function Bakudan2(tel)
+	tel:setResponce("diffHP","-100")
+end
+
+-- ”š’e
+function Bakudan3(tel)
+	tel:setResponce("diffHP","-150")
+end
+
 
 -- ƒKƒX
 function Gus(tel)
@@ -34,7 +69,17 @@ function Ya(tel)
 	tel:setResponce("diffHP","-10")
 end
 
--- –î
+-- –î2
 function Ya2(tel)
+<<<<<<< HEAD
 	tel:setResponce("diffHP","-10000")
+=======
+	tel:setResponce("diffHP","-30")
+>>>>>>> ffd7895ebed8e697b96737562a53f32d106d47c3
 end
+
+-- –î3
+function Ya3(tel)
+	tel:setResponce("diffHP","-50")
+end
+
