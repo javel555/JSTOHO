@@ -60,7 +60,7 @@ function Net(tel)
 end
 
 -- åoå±íl
-function EXP(tel)
+function ExpUp(tel)
 	tel:setResponce("diffEXP","100")
 end
 
