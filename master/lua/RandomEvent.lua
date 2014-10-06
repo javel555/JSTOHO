@@ -10,35 +10,35 @@
 
 
 
--- —Ž‚Æ‚µŒŠ
+-- —Ž‚Æ‚µŒŠ1
 function Otoshiana(tel)
 	tel:setResponce("diffHP","-20")
 	tel:setResponce("diffTime","-1")
 end
 
--- —Ž‚Æ‚µŒŠ
+-- —Ž‚Æ‚µŒŠ2
 function Otoshiana2(tel)
 	tel:setResponce("diffHP","-40")
-	tel:setResponce("diffTime","-1")
+	tel:setResponce("diffTime","-2")
 end
 
--- —Ž‚Æ‚µŒŠ
+-- —Ž‚Æ‚µŒŠ3
 function Otoshiana3(tel)
 	tel:setResponce("diffHP","-60")
-	tel:setResponce("diffTime","-1")
+	tel:setResponce("diffTime","-3")
 end
 
--- ”š’e
+-- ”š’e1
 function Bakudan(tel)
 	tel:setResponce("diffHP","-40")
 end
 
--- ”š’e
+-- ”š’e2
 function Bakudan2(tel)
 	tel:setResponce("diffHP","-100")
 end
 
--- ”š’e
+-- ”š’e3
 function Bakudan3(tel)
 	tel:setResponce("diffHP","-150")
 end
@@ -59,8 +59,18 @@ function Net(tel)
 	tel:setResponce("diffTime","-2")
 end
 
--- ŒoŒ±’l
+-- ŒoŒ±’l1
 function ExpUp(tel)
+	tel:setResponce("diffEXP","100")
+end
+
+-- ŒoŒ±’l2
+function ExpUp2(tel)
+	tel:setResponce("diffEXP","100")
+end
+
+-- ŒoŒ±’l3
+function ExpUp3(tel)
 	tel:setResponce("diffEXP","100")
 end
 
