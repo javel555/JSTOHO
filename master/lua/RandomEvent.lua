@@ -25,16 +25,16 @@ function Net(tel)
 end
 
 -- ŒoŒ±’l
-function EXP(tel)
+function ExpUp(tel)
 	tel:setResponce("diffEXP","100")
 end
 
 -- –î
 function Ya(tel)
-	tel:setResponce("diffHP","-10");
+	tel:setResponce("diffHP","-10")
 end
 
 -- –î
 function Ya2(tel)
-	tel:setResponce("diffHP","-10000");
+	tel:setResponce("diffHP","-10000")
 end
