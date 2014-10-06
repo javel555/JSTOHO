@@ -71,11 +71,7 @@ end
 
 -- –î2
 function Ya2(tel)
-<<<<<<< HEAD
-	tel:setResponce("diffHP","-10000")
-=======
 	tel:setResponce("diffHP","-30")
->>>>>>> ffd7895ebed8e697b96737562a53f32d106d47c3
 end
 
 -- –î3

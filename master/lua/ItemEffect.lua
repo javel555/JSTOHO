@@ -1,3 +1,9 @@
+-- tel.getResponce("hp");
+-- tel.getResponce("mp");
+-- tel.getResponce("isAll");
+-- tel.getResponce("time");
+
+
 function Yakusou(tel)
 	tel:setResponce("hp", "30");
 	tel:setResponce("isAll", "false");
@@ -27,10 +33,3 @@ function Minto(tel)
 	tel:setResponce("mp", "10");
 	tel:setResponce("isAll", "true");
 end
-
-function Sumaho(tel)
-	tel:setResponce("hp", "20");
-	tel:setResponce("mp", "20");
-	tel:setResponce("isAll", "true");
-end
-
