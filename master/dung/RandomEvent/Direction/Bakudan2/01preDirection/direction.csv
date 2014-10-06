@@ -1,0 +1,6 @@
+#,,,,,,,,
+#　爆弾演出
+#
+
+JSGAMECLGCommonAnimation,落とし穴アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/01bomb_69x66.png,69,66,3,1,3,15,FALSE,FALSE,90,165,
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,爆弾！！！,0

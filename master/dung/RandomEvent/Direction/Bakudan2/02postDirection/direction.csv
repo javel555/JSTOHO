@@ -1,0 +1,5 @@
+#,,,,,,,,
+#　爆弾演出
+#
+
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPに60のダメージ！,0

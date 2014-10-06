@@ -1,25 +1,36 @@
-function execYakusou(tel)
+function Yakusou(tel)
 	tel:setResponce("hp", "30");
 	tel:setResponce("isAll", "false");
 end
 
-function execMinto(tel)
+function Minto(tel)
 	tel:setResponce("mp", "20");
 	tel:setResponce("isAll", "false");
 end
 
-function execYakusouBig(tel)
+function YakusouBig(tel)
 	tel:setResponce("hp", "20");
 	tel:setResponce("isAll", "true");
 end
 
-function execMinto(tel)
+function YakusouBig2(tel)
+	tel:setResponce("hp", "20");
+	tel:setResponce("isAll", "true");
+end
+
+function YakusouBig3(tel)
+	tel:setResponce("hp", "20");
+	tel:setResponce("isAll", "true");
+end
+
+function Minto(tel)
 	tel:setResponce("mp", "10");
 	tel:setResponce("isAll", "true");
 end
 
-function execSumaho(tel)
+function Sumaho(tel)
 	tel:setResponce("hp", "20");
 	tel:setResponce("mp", "20");
 	tel:setResponce("isAll", "true");
 end
+
