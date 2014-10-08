@@ -35,12 +35,12 @@ end
 
 -- 爆弾2
 function Bakudan2(tel)
-	tel:setResponce("diffHP","-100")
+	tel:setResponce("diffHP","-60")
 end
 
 -- 爆弾3
 function Bakudan3(tel)
-	tel:setResponce("diffHP","-150")
+	tel:setResponce("diffHP","-100")
 end
 
 
@@ -61,12 +61,12 @@ end
 
 -- 経験値1
 function ExpUp(tel)
-	tel:setResponce("diffEXP","100")
+	tel:setResponce("diffEXP","30")
 end
 
 -- 経験値2
 function ExpUp2(tel)
-	tel:setResponce("diffEXP","100")
+	tel:setResponce("diffEXP","50")
 end
 
 -- 経験値3
@@ -81,11 +81,11 @@ end
 
 -- 矢2
 function Ya2(tel)
-	tel:setResponce("diffHP","-30")
+	tel:setResponce("diffHP","-20")
 end
 
 -- 矢3
 function Ya3(tel)
-	tel:setResponce("diffHP","-50")
+	tel:setResponce("diffHP","-40")
 end
 

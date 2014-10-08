@@ -55,19 +55,19 @@ end
 --スタミナ回復アイテム
 -----------------------------------
 function Pan(tel)
-	tel:setResponce("time", "2")    
+	tel:setResponce("time", "-2")    
 end
 
 function Obentou(tel)
-	tel:setResponce("time", "10")    
+	tel:setResponce("time", "-10")    
 end
 
 function Steaka(tel)
-	tel:setResponce("time", "20")
+	tel:setResponce("time", "-20")
 end
 
 function MagicKinoko(tel)
 	tel:setResponce("hp", "-50")
-	tel:setResponce("time", "20")
+	tel:setResponce("time", "-20")
 	tel:setResponce("isAll", "false")
 end
