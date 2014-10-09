@@ -10,8 +10,8 @@
 #,,,,,,,,
 ,,,,,,,,
 
-JSGAMEALGPointMove,背景左移動,BGReset,BackGround,-250,0,0,FALSE,0
-JSGAMEALGPointMove,背景左移動,BGReset2,BackGround,-100,0,30,FALSE,1
+JSGAMEALGPointMove,背景左移動,BGReset,BackGround,-300,0,0,FALSE,0
+JSGAMEALGPointMove,背景左移動,BGReset2,BackGround,-200,0,20,FALSE,1
 ,,,,,,,,
 #JSGAMECLGFadeInEffect,フェードイン,fadeIn,20,0,,,,
 JSGAMEFILAlphaFadeOut,黒色フィルタをフェードアウト,FilterAlpFade,FadeFilter,255,20,0,
