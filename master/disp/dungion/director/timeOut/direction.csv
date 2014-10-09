@@ -6,6 +6,11 @@ JSGAMECLGCommonImage,黒色フィルタ,FadeFilter,3005,TRUE,./data/img/effect/BlackFi
 JSGAMEFILAlphaFadeIn,黒色フィルタをフェードイン,FilterAlpFade,FadeFilter,0,30,0,
 
 #時間切れ画像をセット
-JSGAMECLGCommonImage,時間切れ画像,timeOutImage,3006,TRUE,./data/img/test/TIME.png,520,62,60,220,
+JSGAMECLGCommonImage,時間切れ画像,timeOutImage,3006,TRUE,./data/img/test/TIME.png,520,62,60,160,
 JSGAMEFILAlphaFadeIn,時間切れ画像をフェードイン,timeOutAlpFade,timeOutImage,0,30,0,
 
+#ペナルティメッセージの表示
+JSGAMECLGCommonWindow,キャラステータス背景下,timeOutMessage_Window,113007,FALSE,./data/img/common/window20x20.png,20,20,0,380,600,60
+JSGAMECLGCommonText,残りスタミナ,timeOutMessage,113008,FALSE,20,400,獲得経験値が減少した。\nアイテムが全て無くなった・・・,middle,textFront,textShadow
+JSGAMEALGSendCommand,一定時間後にメッセージ表示,timeOutWait1,timeOutMessage_Window,setVisible,true,50
+JSGAMEALGSendCommand,一定時間後にメッセージ表示,timeOutWait2,timeOutMessage,setVisible,true,50

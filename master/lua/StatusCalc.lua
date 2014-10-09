@@ -2,10 +2,15 @@ function calcEXP(tel)
 	base = tel:getRequest("reqBase")
 	bai = tel:getRequest("reqBai")
 	level = tel:getRequest("level")
-	
+
 	-- 基礎値に対して、基礎値＋基礎値*倍率づつ増える感じ
 	-- 基礎値＋(基礎値*(レベル / 2)^2) + 基礎値*倍率*(レベル / 2)^2)
 	val = base + base * (level * 0.5) * (level * 0.5) + base * (bai / 100) * (level * 0.5) * (level * 0.5)
+
+	-- 上記の数式だと、レベルが0の時必要経験値が基礎値と同じになるので、特殊判定
+	if level == "0" then
+		val = 0
+	end
 
 	tel:setResponce("result", val.."")
 end
@@ -95,6 +100,6 @@ function calcCAP(tel)
 
 --	val = base + base * (bai / 100) * (level - 1)
 	val = base + bai * (level - 1)
-	
+
 	tel:setResponce("result", val.."")
 end

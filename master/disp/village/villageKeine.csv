@@ -26,7 +26,7 @@ JSGAMECLGCommonAnimation,左,keine-slot-chara4,8100,TRUE,./data/img/character/err
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 #パーティ情報,,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonTextWindow,テキストウィンドウ,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示サイズX,表示サイズY,テキスト桁数,テキスト行数,表示文言セット,,,,,,,,,,,
-JSGAMECLGCommonImage,進化可否表示,keine-current-evol,8300,TRUE,./data/img/village/ClassChange_OFF.png,136,29,10,266,,,,,,,,,,,,,,,,
+JSGAMECLGCommonImage,進化可否表示,keine-current-evol,8300,FALSE,./data/img/village/ClassChange_OFF.png,136,29,10,266,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ##########装備スロット選択##########,,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,testFont,textFront,textShadow,,,,,,,,,,

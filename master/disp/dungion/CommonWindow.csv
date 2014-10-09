@@ -21,3 +21,6 @@ JSGAMECLGCommonText,最大所持重量,DungionCommon-MaxWeight,5,TRUE,95,130,TEST,midd
 ,,,,,,,,,,,,,,,,,,
 JSGAMECLGCommonImage,探索率ラベル,DungionCommon-HuntLabel,5,TRUE,./data/img/test/hunt_ico.png,28,28,140,110,,,,,,,,,
 JSGAMECLGGauge,探索率,DungionCommon-Hunt,5,TRUE,./data/img/common/hp-gauge.png,70,10,170,115,100,100,,70,45,,,,
+,,,,,,,,,,,,,,,,,,
+JSGAMECLGCommonText,獲得経験値ラベル,DungionCommon-CurrentEXPLabel,5,TRUE,500,100,獲得EXP：,middle,textFront,textShadow,,,,,,,,
+JSGAMECLGCommonText,獲得経験値,DungionCommon-CurrentEXP,5,TRUE,580,100,1000,middle,textFront,textShadow,,,,,,,,

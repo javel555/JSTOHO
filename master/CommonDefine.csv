@@ -40,7 +40,7 @@ init-exp,0
 #全滅時獲得経験値割合(%),
 LoseEXPRate,10
 #経過時間最大値(回),
-TimeMax,30
+TimeMax,20
 #先へ進む選択時経過時間消費免除探索率(%),
 ExemptionTimeHunting,101
 #先へ進む解放探索率(%),
