@@ -5,5 +5,5 @@
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 #JSGAMECLGCommonText,こめんと,testtest,5,TRUE,100,100,aaaaa,textFont,middle,textShadow,
-JSGAMECLGCommonText,こめんと,DungionCommon-Clock-Current,5,TRUE,500,20,TEST,middle,textFront,textShadow,
-JSGAMECLGCommonText,こめんと,DungionCommon-Clock-Escape,5,TRUE,500,35,TEST,middle,textFront,textShadow,
+JSGAMECLGCommonText,残りスタミナ,DungionCommon-Clock-Current,5,TRUE,500,20,コメント,middle,textFront,textShadow,
+JSGAMECLGCommonText,脱出コスト,DungionCommon-Clock-Escape,5,TRUE,500,35,コメント,middle,textFront,textShadow,
