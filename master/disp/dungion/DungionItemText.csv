@@ -1,0 +1,8 @@
+#アイテム説明欄,,,,,,,,,,,,,,
+#背景,,,,,,,,,,,,,,
+JSGAMECLGCommonWindow,アイテム説明欄背景,SYS-Dungion-Item-Text_Window,8200,TRUE,./data/img/common/window15x15.png,15,15,355,145,250,32,,,
+#アイテム説明,,,,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Dungion-Item-Text_Info,8300,TRUE,368,158,サンプルテキスト,middle,textFront,textShadow,,13,13,
+#アイテム重さ,,,,,,,,,,,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Dungion-Item-Text_Weight-Label,8300,TRUE,540,178,CAP：,middle,textFront,textShadow,,,,
+JSGAMECLGCommonText,アイテム説明,SYS-Dungion-Item-Text_Weight,8300,TRUE,580,178,サン,middle,textFront,textShadow,,,,

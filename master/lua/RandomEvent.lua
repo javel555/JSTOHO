@@ -76,7 +76,7 @@ end
 
 -- –î
 function Ya(tel)
-	tel:setResponce("diffHP","-10")
+	tel:setResponce("diffHP","-20")
 end
 
 -- –î2

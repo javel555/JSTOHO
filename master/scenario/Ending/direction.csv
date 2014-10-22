@@ -1,0 +1,8 @@
+#リザルト演出
+#
+JSGAMECLGFadeOutEffect,フェードアウト,Ending-fadeOut,20,0,,,,
+
+JSGAMECLGCommonImage,スタッフロール画像,Ending-Image,30006,FALSE,./data/img/test/back.png,640,480,0,0
+JSGAMEALGSendCommand,一定時間後にメッセージ表示,Ending-Image-Open,Ending-Image,setVisible,TRUE,30
+
+JSGAMECLGFadeInEffect,フェードイン,Ending-fadeReset,20,31,,,,
