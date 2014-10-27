@@ -2,5 +2,6 @@
 #　矢　演出
 #
 
-JSGAMECLGCommonAnimation,矢アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/ya_anim96x96.png,96,96,4,3,12,1,FALSE,FALSE,90,165,
+JSGAMECLGCommonWindow,アニメ背景,RandomEvent-Window,3000,TRUE,./data/img/common/window15x15.png,15,15,75,145,165,105,,,,
+JSGAMECLGCommonAnimation,矢アニメ,RandomEvent-Image,3010,TRUE,./data/img/test/ya_anim96x96.png,96,96,4,3,12,1,FALSE,FALSE,90,165,
 JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,ヤダ！！！！,0

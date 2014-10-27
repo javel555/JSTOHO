@@ -2,6 +2,7 @@
 #　ネット演出
 #
 
-JSGAMECLGCommonAnimation,落とし穴アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/net_anim_48x48.png,96,96,5,6,30,1,FALSE,FALSE,90,165,
+JSGAMECLGCommonWindow,アニメ背景,RandomEvent-Window,3000,TRUE,./data/img/common/window15x15.png,15,15,75,145,165,105,,,,
+JSGAMECLGCommonAnimation,落とし穴アニメ,RandomEvent-Image,3010,TRUE,./data/img/test/net_anim_48x48.png,96,96,5,6,30,1,FALSE,FALSE,90,165,
 JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,ネットだ！,0
 
