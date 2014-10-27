@@ -81,11 +81,11 @@ end
 
 -- –î2
 function Ya2(tel)
-	tel:setResponce("diffHP","-20")
+	tel:setResponce("diffHP","-40")
 end
 
 -- –î3
 function Ya3(tel)
-	tel:setResponce("diffHP","-40")
+	tel:setResponce("diffHP","-60")
 end
 

@@ -2,4 +2,4 @@
 #　矢演出
 #
 
-JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPに10のダメージ！,0
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPに40のダメージ！,0

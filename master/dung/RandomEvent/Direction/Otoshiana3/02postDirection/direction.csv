@@ -3,7 +3,7 @@
 #
 
 #JSGAMECLGCommonAnimation,落とし穴アニメ,RandomEvent-Image,3000,TRUE,./data/img/test/ana.png,96,80,1,1,1,3,FALSE,FALSE,90,165,
-JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPに30のダメージ！,0
+JSGAMEALGSendCommand,テキスト表示,RandomEvent-Text,DungionCommon-Text,writeText,HPに60のダメージ！\nスタミナが3減少！,0
 
 
 
