@@ -12,19 +12,19 @@
 
 -- —Ž‚Æ‚µŒŠ1
 function Otoshiana(tel)
-	tel:setResponce("diffHP","-20")
+	tel:setResponce("diffHP","-10")
 	tel:setResponce("diffTime","-1")
 end
 
 -- —Ž‚Æ‚µŒŠ2
 function Otoshiana2(tel)
-	tel:setResponce("diffHP","-40")
+	tel:setResponce("diffHP","-20")
 	tel:setResponce("diffTime","-2")
 end
 
 -- —Ž‚Æ‚µŒŠ3
 function Otoshiana3(tel)
-	tel:setResponce("diffHP","-60")
+	tel:setResponce("diffHP","-30")
 	tel:setResponce("diffTime","-3")
 end
 

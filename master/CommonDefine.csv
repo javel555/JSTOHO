@@ -46,8 +46,8 @@ ExemptionTimeHunting,101
 #æ‚Öi‚Ş‰ğ•ú’Tõ—¦(%),
 ReleaseNextHunting,99
 #’Tõ—¦ã¸’lŠî‘b(%),
-HuntingAddBase,20
+HuntingAddBase,25
 #’Tõ—¦ã¸’l•ª•z(}%),
-HuntingAddRange,5
-#“P‘ŞŒ¸­’Tõ—¦(%)
+HuntingAddRange,10
+#“P‘ŞŒ¸­’Tõ—¦(%),
 HuntingDropRate,80
