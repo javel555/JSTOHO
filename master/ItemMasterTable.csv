@@ -70,7 +70,7 @@ Base,Steaka,ƒXƒe[ƒL,ƒ‚ƒ“ƒXƒ^[‚Ì‚¨“÷‚ð’¼‰Î‚ÅÄ‚«ã‚°‚Ü‚µ‚½B\n‚·‚²‚¢ƒ{ƒŠƒ…[ƒ€
 Korin,noSale,0:NoFree,,,,,
 Item,all,,,,,,
 #,,,,,,,
-Base,MagicKinoko,ƒ}ƒWƒJƒ‹ƒLƒmƒR,X‚Å‚Æ‚ê‚é’¿‚µ‚¢ƒLƒmƒRBƒXƒ^ƒ~ƒi‚ªƒ‚ƒŠƒ‚ƒŠ—N‚¢‚Ä‚­‚é‚ª‚¨• ‚ð‰ó‚·B,2,100,ƒXƒ^ƒ~ƒi20‰ñ•œ@‘S‘ÌHP@50ƒ_ƒ[ƒW,
+Base,MagicKinoko,ƒ}ƒWƒJƒ‹ƒLƒmƒR,X‚Å‚Æ‚ê‚é’¿‚µ‚¢ƒLƒmƒRB\nƒXƒ^ƒ~ƒi‚ªƒ‚ƒŠƒ‚ƒŠ—N‚¢‚Ä‚­‚é‚ª‚¨• ‚ð‰ó‚·B,2,100,ƒXƒ^ƒ~ƒi20‰ñ•œ@\n‘S‘ÌHP@50ƒ_ƒ[ƒW,
 Korin,noSale,0:NoFree,,,,,
 Item,all,,,,,,
 #-------------------------------------------------------------------,,,,,,,
