@@ -7,7 +7,7 @@
 --‰ñ•œƒAƒCƒeƒ€
 -----------------------------------
 function Yakusou(tel)
-	tel:setResponce("hp", "10")    
+	tel:setResponce("hp", "30")    
 	tel:setResponce("isAll", "false")    
 end
 
