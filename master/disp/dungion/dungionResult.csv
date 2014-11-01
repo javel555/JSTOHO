@@ -8,7 +8,7 @@ JSGAMECLGCommonImage,背景,BackGround-dummy,10,TRUE,./data/img/village/BGI.png,64
 #共通系,,,,,,,,,,,,,,,,,,,,,,,,,,,
 JSGAMECLGCommonWindow,結果ウィンドウ,Result_Title_Window,3050,TRUE,./data/img/common/window15x15.png,15,15,90,5,200,45,,,,,,,,,,,,,,,,
 JSGAMECLGCommonImage,攻略結果,Result_Title_Success,3100,TRUE,./data/img/test/success.png,213,65,100,14,,,,,,,,,,,,,,,,,,
-JSGAMECLGCommonImage,攻略結果,Result_Title_Faild,3100,FALSE,./data/img/test/faild.png,213,65,110,23,,,,,,,,,,,,,,,,,,
+JSGAMECLGCommonImage,攻略結果,Result_Title_Faild,3100,FALSE,./data/img/test/faild.png,213,65,100,14,,,,,,,,,,,,,,,,,,
 JSGAMECLGCommonWindow,ダンジョン名ウィンドウ,Result_Floor_Window,3050,TRUE,./data/img/common/window15x15.png,15,15,315,5,200,45,,,,,,,,,,,,,,,,
 JSGAMECLGCommonText,ダンジョン名,Result_DungionName,3100,TRUE,330,23,紅魔館,middle,textFront,textShadow,,,,,,,,,,,,,,,,,
 JSGAMECLGCommonText,到達階層ラベル,Result_Floor_Label,3100,TRUE,330,48,到達階層,middle,textFront,textShadow,,,,,,,,,,,,,,,,,
