@@ -77,8 +77,8 @@ JSGAMECLGCommonMenuElement,特性確認,reimu-parmit-status,8300,FALSE,./data/img/co
 JSGAMECLGCommonMenuElement,キャンセル,reimu-parmit-chancel,8300,FALSE,./data/img/common/menu_elem3_m.png,150,25,10,350,キャンセル,15,5,testFont,textFront,textShadow,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #パーティ選択,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-#JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデント左,インデント下,アイコン画像パス,アイコン幅,アイコン高さ,アイコンインデント左,アイコンインデント下,文字色,影色
-JSTOHOCLGVillageReimuMemberTextSelecter,パーティ選択リスト,reimu-member-menu,8200,FALSE,./data/img/common/window15x15.png,15,15,315,140,12,14,290,215,./data/img/village/next.png,290,25,./data/img/common/menu_pointer.png,311,16,testFont,0,0,./data/img/village/cursol.png,16,18,250,0,frontText,shadowText
+#JSGAMECLGCommonTextSelecter,テキスト選択リスト,UID,描画順序,表示/非表示,背景画像パス,背景画像１片の横幅,背景画像１片の縦幅,表示座標X,表示座標Y,テキスト桁数,テキスト行数,背景横幅,背景縦幅,続きマーク画像パス,続きマーク画像横幅,続きマーク画像縦幅,カーソル画像パス,カーソル画像横幅,カーソル画像縦幅,フォント指定,インデント左,インデント下,アイコン画像パス,アイコン幅,アイコン高さ,アイコンインデント左,アイコンインデント下,,
+JSTOHOCLGVillageReimuMemberTextSelecter,パーティ選択リスト,reimu-member-menu,8200,FALSE,./data/img/common/window15x15.png,15,15,315,140,12,14,290,215,./data/img/village/next.png,290,25,./data/img/common/menu_pointer.png,311,16,testFont,0,0,./data/img/village/cursol.pngA,16,18,250,0,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #--以下、存在しないとエラーになるため背景レイヤより下に表示している。ＰＧから消しておいてほしい-----------------------------------------------------,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #JSGAMECLGCommonMenuElement,汎用メニュー選択肢、画像の上側が未選択、下が選択中,UID,描画順序,表示/非表示,画像パス,画像サイズX,画像サイズY,表示座標X,表示座標Y,表示文言,文言のマージンX座標,文言のマージンY座標,フォント,文字色,影色,,,,,,,,,,,,,,
